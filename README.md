@@ -12,6 +12,7 @@ I aim to provide impactful solutions, nurture professional relationships, and ad
 - 🐣 www.twitter.com/daleny_sivilay
 - 👩‍💻 www.github.com/dalenysivilay
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalenysivilay)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 dalenysivilay/dalenysivilay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
